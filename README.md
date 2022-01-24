@@ -17,8 +17,6 @@ vless 性能更加优秀，占用资源更少。
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/outpo/hfg.weishu.name) 
 
-WS路径为/app格式
-
 
 **XRay 将在部署时会自动实配安装`最新版本`。**
 
